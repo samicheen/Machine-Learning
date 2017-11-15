@@ -1,0 +1,10 @@
+This is Linear regression implementation:
+10_a_b.py contains code for closed form and gradient descent
+
+10_c.py contains code for ridge regression with K fold cross validation
+
+To run Q10 a and b part, run the following command:
+python 10_a_b.py
+
+To run Q10 c part, run the following command:
+python 10_c.py

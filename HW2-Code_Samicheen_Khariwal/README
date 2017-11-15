@@ -1,0 +1,9 @@
+This is Logistic regression and SVM implementation:
+7.py contains code for logistic regression with ridge gradient descent and K fold cross validation.
+8.py contains code for SVM which implements simplified SMO(Sequential Minimal Optimization) algorithm.
+
+To run Q7, run the following command:
+python 7.py
+
+To run Q8, run the following command:
+python 8.py
